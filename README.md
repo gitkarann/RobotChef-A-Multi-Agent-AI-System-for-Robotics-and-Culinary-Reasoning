@@ -144,14 +144,7 @@ source .venv/bin/activate
 
 # 🔌 LLM Backend Setup
 
-## Option A — University LLM
-
-```env
-LLM_SERVICE_URL=https://uhhpc.herts.ac.uk/qwen
-LLM_API_TOKEN=your_token_here
-```
-
-## Option B — Google Gemini
+## Option A — Google Gemini
 
 1. Get API key: https://aistudio.google.com  
 2. Add to `.env`:
